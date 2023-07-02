@@ -13,5 +13,5 @@ ebay_shopping.spec.js --> consist of 2 required tests
 
 Tech Stack used--> javaScript and Playwright
 
-command to run these tests --> npx playwright test --project=chromium  ebay_shopping.spec.js --headed
+command to run these tests --> npx playwright test ebay_shop.spec.js --headed
 command to see report--> npx playwright show-report
